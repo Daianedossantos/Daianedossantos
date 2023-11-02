@@ -7,6 +7,8 @@
 
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=daianedossantos&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daianedossantos)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 𝔗𝔢𝔠𝔫𝔬𝔩𝔬𝔤𝔦𝔞𝔰 𝔮𝔲𝔢 𝔲𝔰𝔬 𝔫𝔬 𝔪𝔢𝔲 𝔡𝔦𝔞-𝔞-𝔡𝔦𝔞
 
 <div style="display: inline_block"><br/>
